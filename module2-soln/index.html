@@ -1,22 +1,44 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta name="viewport" content="width=device-width">
 	<title>assignment2</title>
 	<link rel="stylesheet" href="style.css">
 	<style >
 		*{
 	box-sizing: border-box;
 }
-div.one p,div.two p,div.three p {
-	background-color:MediumSeaGreen;
-	width: 33.33%
-	padding: 20px;
-	
+h2
+{
+	position:absolute;
+	top:0;
+	right:0;
+
 }
-p{
-	float: left;
-	margin: 10px;
+p
+{
+	padding:10px;
 }
+@media(max-width: 767px)
+{
+	div div{
+		width: 100%;
+	}
+}
+@media(min-width: 768px) and (max-width: 991px)
+{
+	div div
+	{
+		width: 50%;
+	}
+}
+@media(min-width: 992px)
+{
+	div div{
+		width: 33.33%;
+	}
+}
+
 </style>
 </head>
 <body>
