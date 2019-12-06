@@ -1,5 +1,13 @@
-
-.one .two .three {
-	color: dodgerblue;
-	width: 400px;
+p
+{
+	padding:10px;
+}
+.one,.two,.three
+{
+	background-color: blue;
+	border:1px solid black;
+}
+div p{
+	float: left;
+	margin: 10px;
 }
