@@ -1,13 +1,4 @@
-p
+section>p
 {
-	padding:10px;
-}
-.one,.two,.three
-{
-	background-color: blue;
-	border:1px solid black;
-}
-p>p{
-	float: left;
-	margin: 10px;
+	font-size: 16px;
 }
