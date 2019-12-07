@@ -5,3 +5,9 @@
 		width: 100%;
 	}
 }
+section
+{
+	background-color: #33ccff;
+	border: 1px;
+	margin: 10px;
+}
