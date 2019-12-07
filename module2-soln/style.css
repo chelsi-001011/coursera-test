@@ -1,26 +1,7 @@
-body
+@media (max-width: 767px)
 {
-	background-color: grey;
-}
-@media(max-width: 767px)
-{
-	.col-xs-12{
-		width: 100%;
-		float: left;
-	}
-}
-@media(min-width: 768px) and (max-width: 991px)
-{
-	.col-sm-6
+	section p
 	{
-		width: 50%;
-		float: left;
-	}
-}
-@media(min-width: 992px)
-{
-	.col-lg-4{
-		width: 33.33%;
-		float: left;
+		width: 100%;
 	}
 }
