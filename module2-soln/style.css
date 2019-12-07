@@ -5,9 +5,15 @@
 		width: 100%;
 	}
 }
-section
+section p
 {
-	background-color: #33ccff;
-	border: 1px;
+	background-color: #3399ff;
+	border: 1px solid black;
 	margin: 10px;
+}
+section div
+{
+	background-color:#66ccff;
+	border: 1px solid black;
+	font-size: 15px; 
 }
