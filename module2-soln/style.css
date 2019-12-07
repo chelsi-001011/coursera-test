@@ -1,7 +1,7 @@
 @media (max-width: 767px)
-{
-	section
+{ .col-xs-12
 	{
+		float: left;
 		width: 100%;
 		margin:auto;
 	}
@@ -22,7 +22,7 @@ section p
 	padding-right:10px;
 	float:left;
 }
-section div
+ section div
 {
 	background-color:#3399ff;
 	border:1px solid black;
@@ -30,20 +30,23 @@ section div
 	margin:10px;
 	width:fit-content;
 	float:right;
-}
+} 
 @media (min-width:768px)and (max-width:991px)
-{
-	section {
+{ .col-sm-12,.col-sm-6
+	{
+		float:left;
+	}
+	.col-sm-6 {
 		width:50%;
 	}
-	#full
+	.col-sm-12
 	{
 		width: 100%;
 	}
 }
 @media (min-width:992px)
-{
-	section {
+{ .col-md-4{
+	float: left;
 		width:33.33%;
 	}
 }
