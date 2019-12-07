@@ -5,11 +5,10 @@
 		margin:auto;
 	}
 }
-section{
-	position:relative;
-	
+p
+{
+	float: left;
 }
-
 section p
 {
 	background-color: #66ccff;
@@ -19,7 +18,6 @@ section p
 	padding-left:10px;
 	padding-bottom:10px;
 	padding-right:10px;
-	float:left;
 }
  section div
 {
