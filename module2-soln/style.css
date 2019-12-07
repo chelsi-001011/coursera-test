@@ -21,6 +21,7 @@ p
 	background-color:#3399ff;
 	border:1px solid black;
 	font-size:22px;
+	font-style: bold;
 	width: auto;
 	position: absolute;
 	top: 0px;
@@ -54,6 +55,17 @@ position: relative;
 }
 
 }
-
+#one
+{
+	background-color: #ff6600;
+}
+#two
+{
+	background-color: #00cc00;
+}
+#three
+{
+	background-color: #ffcc00;
+}
 
 
