@@ -15,19 +15,6 @@ p
 	padding-right:10px;
 	height: 200px;
 	
-}
- div>div
-{
-	background-color:#3399ff;
-	border:1px solid black;
-	font-size:22px;
-	font-style: bold;
-	width: auto;
-	text-align: center;
-	position: absolute;
-	top: 0px;
-	right: 10px;
-	
 } 
 
 	
@@ -35,18 +22,7 @@ p
 {
 position: relative;
 }
-#c1
-{
-	background-color: #ff6600;
-}
-#c2
-{
-	background-color: #00cc00;
-}
-#c3
-{
-	background-color: #ffcc00;
-}
+
 
 
 
