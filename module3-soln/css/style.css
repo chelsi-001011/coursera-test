@@ -19,7 +19,11 @@ p
 .header
 {
 	align:center;
-	font-size: 32px;
+	font-size: px;
+}
+h2
+{
+	text-align: center;
 }
 
 
