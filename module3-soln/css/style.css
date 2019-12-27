@@ -2,7 +2,7 @@
 	box-sizing: border-box;
 	font-family: Georgia, serif;
 }
-span.header{
+.header{
 	font-size:32px;
 	text-align: center;
 	}
