@@ -22,4 +22,7 @@ h2{
 	background-color: SlateBlue;
 	text-align: left;
 } 
+#one,#two,#three{
+	position: relative;
+}
 
