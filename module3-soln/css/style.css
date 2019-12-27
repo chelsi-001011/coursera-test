@@ -16,13 +16,10 @@ p
 	height: 200px;
 	
 } 
-
-	
-#one,#two,#three
+.header
 {
-position: relative;
+	align:center;
+	font-size: 32px;
 }
-
-
 
 
