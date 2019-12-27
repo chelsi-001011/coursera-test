@@ -20,6 +20,11 @@ p{
 	padding-right:10px;
 	height: 200px;
 	
+}
+#nav-header
+{
+	background-color: SlateBlue;
+	text-align: left;
 } 
 
 
