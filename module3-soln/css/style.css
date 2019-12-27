@@ -21,6 +21,8 @@ h2{
 {
 	background-color: SlateBlue;
 	text-align: left;
+	border-radius: 0;
+	border:0;
 } 
 #one,#two,#three{
 	position: relative;
