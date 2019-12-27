@@ -2,9 +2,14 @@
 	box-sizing: border-box;
 	font-family: Georgia, serif;
 }
- 
-p
-{
+span.header{
+	font-size:32px;
+	text-align: center;
+	}
+h1{
+	text-align: center;
+}
+p{
 	float: left;
 	background-color: #66ccff;
 	border: 1px solid black;
@@ -16,15 +21,7 @@ p
 	height: 200px;
 	
 } 
-span.header
-{
-	font-size:32px;
-	text-align: center;
-	}
-h1
-{
-	text-align: center;
-}
+
 
 
 
