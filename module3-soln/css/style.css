@@ -20,7 +20,7 @@ h1{
 h2{
 	text-align: center;
 }
-#nav-header
+#navbar
 {
 	background-color: SlateBlue;
 	text-align: left;
@@ -30,7 +30,7 @@ h2{
 #one,#two,#three{
 	position: relative;
 	font-size: 16px;
-	
+
 }
 .text-center{
 	font-size: 34px;
