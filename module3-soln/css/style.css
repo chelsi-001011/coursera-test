@@ -2,6 +2,9 @@
 	box-sizing: border-box;
 	font-family: Georgia, serif;
 }
+h1{
+	position:relative;
+}
 
 .col-md-12,.col-sm-12{
 	background-color: #66ccff;
