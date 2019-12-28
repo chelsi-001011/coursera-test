@@ -37,8 +37,7 @@ h2{
 .navbar-header button.navbar-toggle,.navbar-default .navbar-toggle .icon-bar{
 	border: 2px solid #66ccff;
 }
-
-navbar-default .navbar-nav>li>a 
+a
 {
 	color:MediumSeaGreen;
 	text-align: center;
