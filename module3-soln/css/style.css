@@ -34,24 +34,20 @@ h2{
 {
 	margin-top: 10px;
 }
- a
-{
-	color:MediumSeaGreen;
-	text-align: center;
-}
-#navlist a:hover
-{
-	background:Black;
-}
 #one, #two, #three{
 	
 	font-size: 20px;
 	
 
 }
-.navbar-header button.navbar-toggle,.iconbar
+.navbar-header button.navbar-toggle, .iconbar
 {
 	border: 2px solid #66ccff;
+}
+a
+{
+	color:MediumSeaGreen;
+	text-align: center;
 }
 
 
