@@ -27,11 +27,6 @@ h2{
 	border-radius: 0;
 	border:0;
 } 
-#one,#two,#three{
-	
-	font-size: 16px;
-
-}
 .text-center{
 	font-size: 34px;
 }
@@ -46,6 +41,17 @@ h2{
 }
 #navlist a:hover
 {
-	background: DodgerBlue;
+	background:;
+}
+#one,#two,#three{
+	
+	font-size: 20px;
+	text-align: center;
+	text-decoration-color: Black;
+
+}
+.navbar-header button.navbar-toggle, .navbar-header .iconbar
+{
+	border: 1px solid #66ccff;
 }
 
