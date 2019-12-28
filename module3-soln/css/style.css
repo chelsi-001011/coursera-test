@@ -27,4 +27,7 @@ h2{
 #one,#two,#three{
 	position: relative;
 }
+.text-center{
+	font-size: 34px;
+}
 
