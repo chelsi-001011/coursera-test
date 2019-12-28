@@ -43,14 +43,13 @@ h2{
 {
 	background:;
 }
-#one,#two,#three{
+#one, #two, #three{
 	
 	font-size: 20px;
-	text-align: center;
 	text-decoration-color: Black;
 
 }
-.navbar-header button.navbar-toggle, .navbar-header,.iconbar
+.navbar-header button.navbar-toggle, .navbar-header .iconbar
 {
 	border: 2px solid #66ccff;
 }
