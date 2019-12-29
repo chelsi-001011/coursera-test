@@ -45,7 +45,7 @@ h2{
 	text-align: center;
 	font-size: 25px;
 }
-.nav .navbar-nav .navbar-right .hidden-sm .hidden-md .hidden-lg .visible-xs
+#navlist
 {
 	background-color: #66ccff;
 }
