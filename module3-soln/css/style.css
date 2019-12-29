@@ -38,7 +38,7 @@ h2{
 .navbar-header button.navbar-toggle,.navbar-default .navbar-toggle .icon-bar{
 	border: 2px solid #66ccff;
 }
-ul
+.navbar-default .navbar-nav>li>a
 {
 	
 	color:Black;
@@ -46,7 +46,7 @@ ul
 	font-size: 25px;
 	background-color: #66ccff;
 }
-#navlist a.hover
+.navbar-default .navbar-nav>li>a a.hover
 {
 	background-color: MediumSeaGreen;
 }
