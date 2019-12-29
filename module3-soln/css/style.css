@@ -41,10 +41,14 @@ h2{
 ul
 {
 	
-	color:MediumSeaGreen;
+	color:Black;
 	text-align: center;
 	font-size: 25px;
 	background-color: #66ccff;
+}
+#navlist a.hover
+{
+	background-color: MediumSeaGreen;
 }
 
 
