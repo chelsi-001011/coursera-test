@@ -1,12 +1,17 @@
-( function () {
+(function () {
   var names= ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
    for (var j = 0 ; j <10; j++) 
-   {
-  var firstLetter =string.toLowerCase(names[j].charAt(0));
+  {
+    var ch=names[j].charAt(0)
+  var firstLetter =ch.toLowerCase();
 
   
    if (firstLetter=='j') {
-    byeSpeaker.speak(names[i]);} 
+    byeSpeaker.speak(names[j]);
+  } 
   else {
-    helloSpeaker.speak(names[i]);} 
- })();
+    helloSpeaker.speak(names[j]);
+  } 
+  }
+}
+)();
